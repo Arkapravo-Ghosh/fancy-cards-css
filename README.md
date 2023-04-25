@@ -1,2 +1,2 @@
-# fancy-cards-css
-Fancy Cards made using HTML and CSS
+# CSS Fancy Card Designs
+Fancy Cards Designs made using HTML and CSS
